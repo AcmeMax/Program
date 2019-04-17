@@ -25,6 +25,6 @@ list4.pop()
 print(list4)
 
 
-#remove()方法可以根据值来删除列表里面的元素
+# remove()方法可以根据值来删除列表里面的元素
 list4.remove("扼晚风")
 print(list4)
