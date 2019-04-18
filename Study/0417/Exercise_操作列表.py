@@ -35,6 +35,39 @@ print(sqls)
 for value in range(1, 21):
     print(value)
 
-sqles = list(range(1, 1000000))
-for value in sqles:
-    print(value, "\n")
+
+squers = [value**2 for value in range(1, 11)]
+print(squers)
+
+
+# 切片 使用列表的一部分
+players = ['charles', 'martina', 'michael', 'florence', 'eli']
+print(players[0:3])
+
+# 复制列表 切片只是暂时的复制列表 后面加上元素输出不会改变原来列表的值
+my_foods = ['pizza', 'falafel', 'carrot cake']
+my_foods_new = my_foods[:]
+print(my_foods_new)
+my_foods.append("ica")
+print(my_foods)
+my_foods_new.append("can")
+print(my_foods_new)
+
+my_foods1 = ['pizza', 'falafel', 'carrot cake']
+my_foods1_new = my_foods1
+print(my_foods1)
+print(my_foods1_new)
+my_foods1.append("ica")
+my_foods1_new.append("can")
+print(my_foods1_new)
+print(my_foods1)
+
+
+# 元组  元组定义了在一个周期类不能改变他的值  如果要改变需重新定义他的值
+foods = ('sz', 'xhz', 'r', 'bc', 'nr')
+for food in foods:
+    print(food)
+
+foods = ('sz', "ad", "e", "bc", "nr")
+for food in foods:
+    print(food)
