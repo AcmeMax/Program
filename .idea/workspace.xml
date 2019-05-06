@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a05ac204-7cd4-43fb-9515-0bb09bdac6d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Study/0419/Exercise_函数input的工作原理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0422/confirmed_users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0422/while循环简介.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0425/mountain_poll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0425/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0429/函数/formatted_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0429/函数/greet_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0429/函数/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0429/函数/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0429/函数/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/display_message.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/favorite_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/formatted_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/greeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/make_shirt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/pets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/Import_functions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/make_pizzas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study/0506/类/创建和使用类/dog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,40 +15,41 @@
     <session id="494535277">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="2" />
-          <entry key="py" value="24" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="24" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
           <entry key="md" value="241" />
-          <entry key="py" value="7995" />
-          <entry key="txt" value="27" />
+          <entry key="py" value="8847" />
+          <entry key="txt" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="241" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="7995" />
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="Python" value="8847" />
         </counts>
       </usages-collector>
     </session>
@@ -74,119 +57,39 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="248">
-                <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/greeter.py">
+        <entry file="file://$PROJECT_DIR$/Study/0506/类/创建和使用类/dog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="338">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
-                <marker date="1557044990015" expanded="true" signature="79:84" ph="..." />
-                <marker date="1557044990015" expanded="true" signature="164:169" ph="..." />
+                <marker date="1557137086084" expanded="true" signature="74:79" ph="..." />
+                <marker date="1557137086084" expanded="true" signature="127:136" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/display_message.py">
+        <entry file="file://$PROJECT_DIR$/Study/0506/类/使用类和实例/car.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="276">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <marker date="1557045500886" expanded="true" signature="84:89" ph="..." />
+                <marker date="1557150656255" expanded="true" signature="74:79" ph="..." />
+                <marker date="1557150656255" expanded="true" signature="474:592" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/favorite_book.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <marker date="1557045766670" expanded="true" signature="87:92" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/pets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding>
-                <marker date="1557047988912" expanded="true" signature="202:207" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/make_shirt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <marker date="1557049361943" expanded="true" signature="105:110" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/formatted_name.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-              <folding>
-                <marker date="1557049904796" expanded="true" signature="108:113" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/pizza.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="14" />
-              <folding>
-                <marker date="1557060897129" expanded="true" signature="94:99" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/make_pizzas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/Import_functions.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="527">
-                <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Study/采集/lagou.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+              <folding>
+                <element signature="e#158#169#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -235,6 +138,9 @@
         <option value="$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/make_pizza1.py" />
         <option value="$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/make_pizzas.py" />
         <option value="$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/Import_functions.md" />
+        <option value="$PROJECT_DIR$/Study/0506/类/创建和使用类/dog.py" />
+        <option value="$PROJECT_DIR$/Study/0506/类/使用类和实例/car.py" />
+        <option value="$PROJECT_DIR$/Study/采集/lagou.py" />
       </list>
     </option>
   </component>
@@ -249,6 +155,20 @@
     <option name="y" value="-8" />
     <option name="width" value="944" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -274,22 +194,7 @@
               <item name="Program" type="b2602c69:ProjectViewProjectNode" />
               <item name="Program" type="462c0819:PsiDirectoryNode" />
               <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="0505" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Program" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="0505" type="462c0819:PsiDirectoryNode" />
-              <item name="函数" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Program" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Program" type="462c0819:PsiDirectoryNode" />
-              <item name="Study" type="462c0819:PsiDirectoryNode" />
-              <item name="0505" type="462c0819:PsiDirectoryNode" />
-              <item name="函数" type="462c0819:PsiDirectoryNode" />
-              <item name="将函数储存在模块中" type="462c0819:PsiDirectoryNode" />
+              <item name="采集" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -301,7 +206,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\编写\Programs\Program\Study\0506\类" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -334,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555570469893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="函数">
+      <created>1557065056996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557065056996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -351,13 +268,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07356077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -386,7 +302,8 @@
     <MESSAGE value="0417" />
     <MESSAGE value="Merge branch 'master' of https://github.com/AcmeMax/Program into acmemax&#10;&#10;# Conflicts:&#10;#&#9;README.md&#10;#&#9;Study/0417/Exercise_增删改查.py&#10;字典" />
     <MESSAGE value="字典" />
-    <option name="LAST_COMMIT_MESSAGE" value="字典" />
+    <MESSAGE value="函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="函数" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Study/0417/Exercise_增删改查.py">
@@ -449,10 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <marker date="1556529853930" expanded="true" signature="109:114" ph="..." />
-            <marker date="1556529853930" expanded="true" signature="347:352" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,11 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <marker date="1556529027657" expanded="true" signature="109:114" ph="..." />
-            <marker date="1556529027657" expanded="true" signature="310:315" ph="..." />
-            <marker date="1556529027657" expanded="true" signature="571:576" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -472,9 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1556527268718" expanded="true" signature="102:103" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,9 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <marker date="1556531742146" expanded="true" signature="85:90" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -492,10 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <marker date="1556530846120" expanded="true" signature="87:92" ph="..." />
-            <marker date="1556530846120" expanded="true" signature="221:226" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -520,6 +418,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="248">
+            <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Study/0505/函数/greeter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -534,16 +443,26 @@
     <entry file="file://$PROJECT_DIR$/Study/0505/函数/display_message.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
             <marker date="1557045500886" expanded="true" signature="84:89" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Study/0505/函数/favorite_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1557045766670" expanded="true" signature="87:92" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Study/0505/函数/pets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="496">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
             <marker date="1557047988912" expanded="true" signature="202:207" ph="..." />
@@ -581,33 +500,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Study/0505/函数/favorite_book.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <marker date="1557045766670" expanded="true" signature="87:92" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/make_pizzas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="248">
-            <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Study/0505/函数/将函数储存在模块中/Import_functions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -616,6 +514,38 @@
             <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/0506/类/创建和使用类/dog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <marker date="1557137086084" expanded="true" signature="74:79" ph="..." />
+            <marker date="1557137086084" expanded="true" signature="127:136" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/0506/类/使用类和实例/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1557150656255" expanded="true" signature="74:79" ph="..." />
+            <marker date="1557150656255" expanded="true" signature="474:592" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Study/采集/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="54" column="34" lean-forward="true" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+          <folding>
+            <element signature="e#158#169#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
